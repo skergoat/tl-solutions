@@ -1,0 +1,989 @@
+﻿{
+  "code": 200,
+  "manufacturers": [
+    {
+      "id": 51,
+      "name": "Abarth",
+      "uri": "abarth",
+      "type": "car",
+      "models": 3,
+      "logo": "af334f57e8a80d3ed25f3ac680709e52.png"
+    },
+    {
+      "id": 117,
+      "name": "Agco",
+      "uri": "agco-agri",
+      "type": "agri",
+      "models": 4,
+      "logo": "0ba52eaa025772da9936da2bfecb89b4.png"
+    },
+    {
+      "id": 19,
+      "name": "Alfa Romeo",
+      "uri": "alfa-romeo",
+      "type": "car",
+      "models": 14,
+      "logo": "bcab8e2fa087fa3fd5006237d36262af.png"
+    },
+    {
+      "id": 39,
+      "name": "Alpina",
+      "uri": "alpina",
+      "type": "car",
+      "models": 12,
+      "logo": "ee6b3c52ec545d27e0beb3de30196119.png"
+    },
+    {
+      "id": 193,
+      "name": "Alpine",
+      "uri": "alpine",
+      "type": "car",
+      "models": 1,
+      "logo": "2b21ce42740160aabb21bb8fdb377d00.png"
+    },
+    {
+      "id": 199,
+      "name": "Ariel",
+      "uri": "ariel",
+      "type": "car",
+      "models": 1,
+      "logo": "7a37ad61e1cd5f7a87fe7bd6cb459eb2.png"
+    },
+    {
+      "id": 118,
+      "name": "Artec",
+      "uri": "artec-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "f294c6fa756bd61c21b17885e7c460be.png"
+    },
+    {
+      "id": 62,
+      "name": "Artega",
+      "uri": "artega",
+      "type": "car",
+      "models": 1,
+      "logo": "89a02f0e3d86ad4215d1a612a8d9afca.png"
+    },
+    {
+      "id": 63,
+      "name": "Aston Martin",
+      "uri": "aston-martin",
+      "type": "car",
+      "models": 10,
+      "logo": "3d6df98d6843e2530f395695a302668c.png"
+    },
+    {
+      "id": 5,
+      "name": "Audi",
+      "uri": "audi",
+      "type": "car",
+      "models": 35,
+      "logo": "26cb50cb7ec8dbe7f2eb40a2c182d995.png"
+    },
+    {
+      "id": 119,
+      "name": "Belarus",
+      "uri": "belarus-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "5466df150822bc01298eb0d7da7c8ac1.png"
+    },
+    {
+      "id": 12,
+      "name": "Bentley",
+      "uri": "bentley",
+      "type": "car",
+      "models": 7,
+      "logo": "a4a05099f6598107ac99c217baedd60d.png"
+    },
+    {
+      "id": 120,
+      "name": "Berthoud",
+      "uri": "berthoud-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "5c1e52ac168d72dd9c8614ff07bc1df7.png"
+    },
+    {
+      "id": 27,
+      "name": "BMW",
+      "uri": "bmw",
+      "type": "car",
+      "models": 37,
+      "logo": "3024a8bb2dc3cefcd8326fcffba0d90c.png"
+    },
+    {
+      "id": 121,
+      "name": "Bombardier",
+      "uri": "bombardier-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "da1da43ef148d67e8df0fe2c5633b9dc.png"
+    },
+    {
+      "id": 40,
+      "name": "Bugatti",
+      "uri": "bugatti",
+      "type": "car",
+      "models": 1,
+      "logo": "f297aa47792269f2fcb7b16ccd1b575e.png"
+    },
+    {
+      "id": 122,
+      "name": "Buhler Versatile",
+      "uri": "buhler-versatile-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "a596eb3ce3f1beb4c020d5b51b935ff9.png"
+    },
+    {
+      "id": 100,
+      "name": "Buick",
+      "uri": "buick",
+      "type": "car",
+      "models": 8,
+      "logo": "b85b0bfebd000e5040bdca2def981ee9.png"
+    },
+    {
+      "id": 33,
+      "name": "Cadillac",
+      "uri": "cadillac",
+      "type": "car",
+      "models": 6,
+      "logo": "8d8ba19380efbec6c2de296d82c1fbb6.png"
+    },
+    {
+      "id": 123,
+      "name": "Camox",
+      "uri": "camox-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "5ab437b31dce39da6724daf9db69557b.png"
+    },
+    {
+      "id": 196,
+      "name": "Can-Am",
+      "uri": "can-am",
+      "type": "car",
+      "models": 6,
+      "logo": "82c443d05cf113fc44ac65fdc7c324b2.png"
+    },
+    {
+      "id": 105,
+      "name": "Case Construction",
+      "uri": "case-construction-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "d58adf1cc06daf4d034d4f8c6df7eb9c.png"
+    },
+    {
+      "id": 106,
+      "name": "Case IH",
+      "uri": "case-ih-agri",
+      "type": "agri",
+      "models": 23,
+      "logo": "c019bd672fb6e6a65f96194579797cd8.png"
+    },
+    {
+      "id": 52,
+      "name": "Caterham",
+      "uri": "caterham",
+      "type": "car",
+      "models": 1,
+      "logo": "988f2ce265ee600af1a8002a8e6b27fd.png"
+    },
+    {
+      "id": 124,
+      "name": "Caterpillar",
+      "uri": "caterpillar-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "b7a0582b6ad5962f2c53fcbcc87005df.png"
+    },
+    {
+      "id": 125,
+      "name": "Challenger",
+      "uri": "challenger-agri",
+      "type": "agri",
+      "models": 7,
+      "logo": "8a9c5b21846c99fbb73a545baafe7f5a.png"
+    },
+    {
+      "id": 11,
+      "name": "Chevrolet",
+      "uri": "chevrolet",
+      "type": "car",
+      "models": 23,
+      "logo": "224f31a40c59bbe0e077f56aabd719ee.png"
+    },
+    {
+      "id": 17,
+      "name": "Chrysler",
+      "uri": "chrysler",
+      "type": "car",
+      "models": 6,
+      "logo": "606ea36b386a80b2e04f5e370338a3f4.png"
+    },
+    {
+      "id": 49,
+      "name": "Citroen",
+      "uri": "citroen",
+      "type": "car",
+      "models": 29,
+      "logo": "63dd5cf1feb2a3a322050df28d4ff3f2.png"
+    },
+    {
+      "id": 107,
+      "name": "Claas",
+      "uri": "claas-agri",
+      "type": "agri",
+      "models": 11,
+      "logo": "7bb12069af6c4fee9ccf2b6e78cb529b.png"
+    },
+    {
+      "id": 190,
+      "name": "CMI",
+      "uri": "cmi-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "0e2d32fa47fc07571247660183ec8b69.png"
+    },
+    {
+      "id": 126,
+      "name": "CML",
+      "uri": "cml-agri",
+      "type": "agri",
+      "models": 0,
+      "logo": "d3f763bb495495d8cfcbafa5848ff5b3.jpg"
+    },
+    {
+      "id": 200,
+      "name": "Cupra",
+      "uri": "cupra",
+      "type": "car",
+      "models": 3,
+      "logo": "809691ce05d5a123d0293e0f6130c10f.png"
+    },
+    {
+      "id": 16,
+      "name": "Dacia",
+      "uri": "dacia",
+      "type": "car",
+      "models": 5,
+      "logo": "6d6a2b97d9b40bd0cfd3263eb9cfdcfa.png"
+    },
+    {
+      "id": 36,
+      "name": "Daewoo",
+      "uri": "daewoo",
+      "type": "car",
+      "models": 2,
+      "logo": "cdec44b2f37beaad3de19827ffecba28.png"
+    },
+    {
+      "id": 127,
+      "name": "Deutz",
+      "uri": "deutz-agri",
+      "type": "agri",
+      "models": 9,
+      "logo": "fba92b70c83bcbe56bbb2cc91091d22c.png"
+    },
+    {
+      "id": 3,
+      "name": "Dodge",
+      "uri": "dodge",
+      "type": "car",
+      "models": 7,
+      "logo": "c6a62d6f07580d69d2d9e15b1b8a8fb4.png"
+    },
+    {
+      "id": 53,
+      "name": "Donkervoort",
+      "uri": "donkervoort",
+      "type": "car",
+      "models": 4,
+      "logo": "dd6416cdb07f112e85c9945f9f6453bc.png"
+    },
+    {
+      "id": 128,
+      "name": "Doosan",
+      "uri": "doosan-agri",
+      "type": "agri",
+      "models": 2,
+      "logo": "0b4e0ac4ad31f30f5a17b1e93715b83b.png"
+    },
+    {
+      "id": 188,
+      "name": "Doppstadt",
+      "uri": "doppstadt-agri",
+      "type": "agri",
+      "models": 0,
+      "logo": "16f064da7fd3635cff17afd3acba1f9c.png"
+    },
+    {
+      "id": 89,
+      "name": "DS",
+      "uri": "ds",
+      "type": "car",
+      "models": 5,
+      "logo": "8b44082033372e58d2563116e9175bd6.png"
+    },
+    {
+      "id": 129,
+      "name": "Eco Log",
+      "uri": "eco-log-agri",
+      "type": "agri",
+      "models": 2,
+      "logo": "12277bb48d719ac0d448e49a38cb6bdd.png"
+    },
+    {
+      "id": 130,
+      "name": "Fendt",
+      "uri": "fendt-agri",
+      "type": "agri",
+      "models": 9,
+      "logo": "db94e1f0070d2994d0caa3ab8c78e662.png"
+    },
+    {
+      "id": 25,
+      "name": "Ferrari",
+      "uri": "ferrari",
+      "type": "car",
+      "models": 26,
+      "logo": "6d9ff469b6adcadf22723b7129b87b2b.png"
+    },
+    {
+      "id": 45,
+      "name": "Fiat",
+      "uri": "fiat",
+      "type": "car",
+      "models": 33,
+      "logo": "8e813050aa356757732a2366a43efdb3.png"
+    },
+    {
+      "id": 9,
+      "name": "Ford",
+      "uri": "ford",
+      "type": "car",
+      "models": 31,
+      "logo": "2a2844d35d541f70c0c9476245efb02b.png"
+    },
+    {
+      "id": 99,
+      "name": "GWM",
+      "uri": "gwm",
+      "type": "car",
+      "models": 2,
+      "logo": "7c664195fcbffa8e74ec9ff42088f056.png"
+    },
+    {
+      "id": 131,
+      "name": "Hitachi",
+      "uri": "hitachi-agri",
+      "type": "agri",
+      "models": 2,
+      "logo": "3b4741413e93ca2190e354fc8997a245.png"
+    },
+    {
+      "id": 31,
+      "name": "Honda",
+      "uri": "honda",
+      "type": "car",
+      "models": 13,
+      "logo": "d00ac879df51ac581cba16783fcd0d4d.png"
+    },
+    {
+      "id": 54,
+      "name": "Hummer",
+      "uri": "hummer",
+      "type": "car",
+      "models": 2,
+      "logo": "c7d91b3c52bc69e409debaa1618d27e0.png"
+    },
+    {
+      "id": 47,
+      "name": "Hyundai",
+      "uri": "hyundai",
+      "type": "car",
+      "models": 29,
+      "logo": "d01b229352a7785cc6f999fa624bd74c.png"
+    },
+    {
+      "id": 132,
+      "name": "Hyundai (Trucks)",
+      "uri": "hyundai-trucks-agri",
+      "type": "agri",
+      "models": 0,
+      "logo": "9046375d30b67d6abf60ba32601648c8.png"
+    },
+    {
+      "id": 13,
+      "name": "Infiniti",
+      "uri": "infiniti",
+      "type": "car",
+      "models": 14,
+      "logo": "e40b741f005133233bafe6c42bda3778.png"
+    },
+    {
+      "id": 20,
+      "name": "Isuzu",
+      "uri": "isuzu",
+      "type": "car",
+      "models": 2,
+      "logo": "50e7e947575007b48dc3e4e34992ee07.png"
+    },
+    {
+      "id": 55,
+      "name": "Iveco",
+      "uri": "iveco",
+      "type": "car",
+      "models": 3,
+      "logo": "37a2ec02acc7ca90c7cdde6107afaa20.png"
+    },
+    {
+      "id": 4,
+      "name": "Jaguar",
+      "uri": "jaguar",
+      "type": "car",
+      "models": 14,
+      "logo": "57142557e9d602f7c9bad11e8c157a69.png"
+    },
+    {
+      "id": 111,
+      "name": "JCB",
+      "uri": "jcb-agri",
+      "type": "agri",
+      "models": 9,
+      "logo": "9c6e956c856fdace176f6d1cd005483e.png"
+    },
+    {
+      "id": 37,
+      "name": "Jeep",
+      "uri": "jeep",
+      "type": "car",
+      "models": 7,
+      "logo": "d0c6fe8ce05f9907ab9f04830a2a1e09.png"
+    },
+    {
+      "id": 133,
+      "name": "John Deere",
+      "uri": "john-deere-agri",
+      "type": "agri",
+      "models": 48,
+      "logo": "98fd1d6cf0e0c1577e575206f2b5a9ff.png"
+    },
+    {
+      "id": 41,
+      "name": "Kia",
+      "uri": "kia",
+      "type": "car",
+      "models": 19,
+      "logo": "4cb51b2814585013cb6021ff51a8eedd.png"
+    },
+    {
+      "id": 18,
+      "name": "KTM",
+      "uri": "ktm",
+      "type": "car",
+      "models": 1,
+      "logo": "cb95fd41fa278b79aae491d34b72926b.png"
+    },
+    {
+      "id": 134,
+      "name": "Kubota",
+      "uri": "kubota-agri",
+      "type": "agri",
+      "models": 3,
+      "logo": "3a8f757d5f0c3470f7ad890cc14ea371.png"
+    },
+    {
+      "id": 135,
+      "name": "Lamborghini",
+      "uri": "lamborghini-agri",
+      "type": "agri",
+      "models": 2,
+      "logo": "9aca0370e9af762815e53f3e87010506.png"
+    },
+    {
+      "id": 24,
+      "name": "Lamborghini",
+      "uri": "lamborghini",
+      "type": "car",
+      "models": 10,
+      "logo": "6e5bbd7d5f88509b2a911f940728ad51.png"
+    },
+    {
+      "id": 28,
+      "name": "Lancia",
+      "uri": "lancia",
+      "type": "car",
+      "models": 9,
+      "logo": "19cc7d4c5a46544792833b61f52be7ca.png"
+    },
+    {
+      "id": 56,
+      "name": "Land-Rover",
+      "uri": "land-rover",
+      "type": "car",
+      "models": 8,
+      "logo": "85bded4bba37143152d73ebdf04f2b12.png"
+    },
+    {
+      "id": 136,
+      "name": "Landini",
+      "uri": "landini-agri",
+      "type": "agri",
+      "models": 2,
+      "logo": "3f1c595ea96aead412db66393c06a296.png"
+    },
+    {
+      "id": 137,
+      "name": "Laverda",
+      "uri": "laverda-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "26ab73a24c2aae93410d288f1e893888.png"
+    },
+    {
+      "id": 94,
+      "name": "Lexus",
+      "uri": "lexus",
+      "type": "car",
+      "models": 3,
+      "logo": "06300f3fa8399b0a6acb4fbadb9b804b.png"
+    },
+    {
+      "id": 138,
+      "name": "Linde",
+      "uri": "linde-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "617e56ab996beb0bbb1f8679ff79aaa8.png"
+    },
+    {
+      "id": 139,
+      "name": "Lindner",
+      "uri": "lindner-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "8a0cbf843b4c20605df0d1c0eaa1dfbf.png"
+    },
+    {
+      "id": 38,
+      "name": "Lotus",
+      "uri": "lotus",
+      "type": "car",
+      "models": 5,
+      "logo": "6e1ac1d4e39fd67294e5929fda4ebf07.png"
+    },
+    {
+      "id": 205,
+      "name": "Lynk & Co",
+      "uri": "lynk-co",
+      "type": "car",
+      "models": 1,
+      "logo": "a06b06264491ad2e82c62d21c700cce1.png"
+    },
+    {
+      "id": 98,
+      "name": "Mahindra",
+      "uri": "mahindra",
+      "type": "car",
+      "models": 6,
+      "logo": "7a6a1d2e0f26d0d56ae17b7243af57b3.png"
+    },
+    {
+      "id": 169,
+      "name": "Man",
+      "uri": "man",
+      "type": "car",
+      "models": 2,
+      "logo": "0ecc65a1ec86948b9f1bdd49fd07ca11.png"
+    },
+    {
+      "id": 15,
+      "name": "Maserati",
+      "uri": "maserati",
+      "type": "car",
+      "models": 8,
+      "logo": "cb0e0fc1dab5287c84ff0bf2d143c618.png"
+    },
+    {
+      "id": 112,
+      "name": "Massey Ferguson",
+      "uri": "massey-ferguson-agri",
+      "type": "agri",
+      "models": 29,
+      "logo": "256fbed8aed6d70daf02bb3d63eeccd4.png"
+    },
+    {
+      "id": 140,
+      "name": "Matrot",
+      "uri": "matrot-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "0dfdf4b07196bef2a8b7b24ce181e93e.png"
+    },
+    {
+      "id": 34,
+      "name": "Mazda",
+      "uri": "mazda",
+      "type": "car",
+      "models": 13,
+      "logo": "f395adf5fa839842ba08aead087ea1b4.png"
+    },
+    {
+      "id": 141,
+      "name": "Mc Cormick",
+      "uri": "mc-cormick-agri",
+      "type": "agri",
+      "models": 3,
+      "logo": "6695d2ae11ba70d506f377ca9b7f3a82.png"
+    },
+    {
+      "id": 57,
+      "name": "McLaren",
+      "uri": "mclaren",
+      "type": "car",
+      "models": 11,
+      "logo": "086dbe0d225da7daeca9ac1e8ecf9896.png"
+    },
+    {
+      "id": 1,
+      "name": "Mercedes",
+      "uri": "mercedes",
+      "type": "car",
+      "models": 35,
+      "logo": "5f98ae3c7c4f9f03b4033f72a4d20dd6.png"
+    },
+    {
+      "id": 44,
+      "name": "MG",
+      "uri": "mg",
+      "type": "car",
+      "models": 3,
+      "logo": "d2e73f6576ed80702081a27ecc45b754.png"
+    },
+    {
+      "id": 21,
+      "name": "Mini",
+      "uri": "mini",
+      "type": "car",
+      "models": 7,
+      "logo": "1256639b4f60dfd074d110c34936436a.png"
+    },
+    {
+      "id": 29,
+      "name": "Mitsubishi",
+      "uri": "mitsubishi",
+      "type": "car",
+      "models": 11,
+      "logo": "8f6bb171f1b3bbab78064c9fa495dd41.png"
+    },
+    {
+      "id": 58,
+      "name": "Morgan",
+      "uri": "morgan",
+      "type": "car",
+      "models": 3,
+      "logo": "459ff10dd27558197cfc349b890602aa.png"
+    },
+    {
+      "id": 91,
+      "name": "Mustang",
+      "uri": "mustang",
+      "type": "car",
+      "models": 1,
+      "logo": "98f02380e28f8ace628483929d3b07fa.png"
+    },
+    {
+      "id": 114,
+      "name": "New Holland",
+      "uri": "new-holland-agri",
+      "type": "agri",
+      "models": 26,
+      "logo": "8cdb927d7f154a9046b729c1dc563aa9.png"
+    },
+    {
+      "id": 8,
+      "name": "Nissan",
+      "uri": "nissan",
+      "type": "car",
+      "models": 29,
+      "logo": "ce634f13f9f66468499885b6557735ac.png"
+    },
+    {
+      "id": 14,
+      "name": "Opel",
+      "uri": "opel",
+      "type": "car",
+      "models": 24,
+      "logo": "746ab8037e48f5a5aab2852f2076d145.png"
+    },
+    {
+      "id": 59,
+      "name": "Pagani",
+      "uri": "pagani",
+      "type": "car",
+      "models": 2,
+      "logo": "a53069f79126edfdfc7f3ec45ed7be2f.png"
+    },
+    {
+      "id": 46,
+      "name": "Peugeot",
+      "uri": "peugeot",
+      "type": "car",
+      "models": 29,
+      "logo": "a6ef2a2f4b65da267ae1790566994f2e.png"
+    },
+    {
+      "id": 93,
+      "name": "PGO",
+      "uri": "pgo",
+      "type": "car",
+      "models": 3,
+      "logo": "f4ef08ee391411b462cf748cba5c3d56.png"
+    },
+    {
+      "id": 97,
+      "name": "Piaggio",
+      "uri": "piaggio",
+      "type": "car",
+      "models": 1,
+      "logo": "82c9a93592edd7bb12573b860c9c80a3.png"
+    },
+    {
+      "id": 194,
+      "name": "Polaris",
+      "uri": "polaris-agri",
+      "type": "agri",
+      "models": 5,
+      "logo": "d0c58375167b1427e49f663f022365b6.png"
+    },
+    {
+      "id": 2,
+      "name": "Porsche",
+      "uri": "porsche",
+      "type": "car",
+      "models": 11,
+      "logo": "8c551d327e3696ffd13a631d6f59be05.png"
+    },
+    {
+      "id": 23,
+      "name": "Renault",
+      "uri": "renault",
+      "type": "car",
+      "models": 23,
+      "logo": "13332be0accd4cad7396b0a47daf7cf0.png"
+    },
+    {
+      "id": 60,
+      "name": "Rolls Royce",
+      "uri": "rolls-royce",
+      "type": "car",
+      "models": 4,
+      "logo": "ea7c8b331ec2dd7e53206bd97d7a0b10.png"
+    },
+    {
+      "id": 142,
+      "name": "Rostselmash",
+      "uri": "rostselmash-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "5f046c2396758bab1c6d0e6335735f68.png"
+    },
+    {
+      "id": 61,
+      "name": "Rover",
+      "uri": "rover",
+      "type": "car",
+      "models": 2,
+      "logo": "e39389637f571e5722da1ac81c1d7846.png"
+    },
+    {
+      "id": 42,
+      "name": "Saab",
+      "uri": "saab",
+      "type": "car",
+      "models": 3,
+      "logo": "2cc94409cc29fec618915cb88e972c2b.png"
+    },
+    {
+      "id": 143,
+      "name": "Same",
+      "uri": "same-agri",
+      "type": "agri",
+      "models": 3,
+      "logo": "10eeb2df79292a7eaf2178b606cb1740.png"
+    },
+    {
+      "id": 92,
+      "name": "Scion",
+      "uri": "scion",
+      "type": "car",
+      "models": 1,
+      "logo": "dda74951a9522924dca169473aa3156e.png"
+    },
+    {
+      "id": 7,
+      "name": "Seat",
+      "uri": "seat",
+      "type": "car",
+      "models": 12,
+      "logo": "fc6bfc70259fdfdfc43cb067c9be2473.png"
+    },
+    {
+      "id": 144,
+      "name": "Sennebogen",
+      "uri": "sennebogen-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "84caa590ff7716e114169986ff3d5fb8.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Skoda",
+      "uri": "skoda",
+      "type": "car",
+      "models": 11,
+      "logo": "4afebe68838638cf4fbbc6254a999b36.png"
+    },
+    {
+      "id": 43,
+      "name": "Smart",
+      "uri": "smart",
+      "type": "car",
+      "models": 5,
+      "logo": "603f4f01a2d4d87f7bb3eb57d7c22c93.png"
+    },
+    {
+      "id": 50,
+      "name": "SsangYong",
+      "uri": "ssangyong",
+      "type": "car",
+      "models": 8,
+      "logo": "509a5f7041eb3637efa4c5253e811df6.png"
+    },
+    {
+      "id": 145,
+      "name": "Steyr",
+      "uri": "steyr-agri",
+      "type": "agri",
+      "models": 5,
+      "logo": "dd4f22ea148d0f1f14bdc4b9d59324b8.png"
+    },
+    {
+      "id": 32,
+      "name": "Subaru",
+      "uri": "subaru",
+      "type": "car",
+      "models": 8,
+      "logo": "81492d23770cee0a0c2fcf24671ba840.png"
+    },
+    {
+      "id": 10,
+      "name": "Suzuki",
+      "uri": "suzuki",
+      "type": "car",
+      "models": 14,
+      "logo": "32ffc8f3f12b16c412c6feec27598ca6.png"
+    },
+    {
+      "id": 6,
+      "name": "Tata",
+      "uri": "tata",
+      "type": "car",
+      "models": 6,
+      "logo": "1ff04290018c2517f16ed76355e62d69.png"
+    },
+    {
+      "id": 146,
+      "name": "Tecnoma",
+      "uri": "tecnoma-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "6c16996f978ced0abcaef865c06cc9c8.png"
+    },
+    {
+      "id": 147,
+      "name": "Tigercat",
+      "uri": "tigercat-agri",
+      "type": "agri",
+      "models": 4,
+      "logo": "662b64cdbf9551ab7df7a7a4a60e7710.png"
+    },
+    {
+      "id": 26,
+      "name": "Toyota",
+      "uri": "toyota",
+      "type": "car",
+      "models": 22,
+      "logo": "283d890f62806c4cf58ef2614868bf06.png"
+    },
+    {
+      "id": 179,
+      "name": "Toyota (other)",
+      "uri": "toyota-other",
+      "type": "car",
+      "models": 0,
+      "logo": "a0ec73e5bf31c1e23ca50af871a7c849.png"
+    },
+    {
+      "id": 148,
+      "name": "Valtra",
+      "uri": "valtra-agri",
+      "type": "agri",
+      "models": 6,
+      "logo": "8eca0d644aeaaed3d2fbb55457499967.png"
+    },
+    {
+      "id": 191,
+      "name": "Versa",
+      "uri": "versa-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "623f8dee11ad56bd33506c508fbadb10.png"
+    },
+    {
+      "id": 30,
+      "name": "Volkswagen",
+      "uri": "volkswagen",
+      "type": "car",
+      "models": 43,
+      "logo": "a336fa96a0d18fa8fc425f4bd3b69442.png"
+    },
+    {
+      "id": 48,
+      "name": "Volvo",
+      "uri": "volvo",
+      "type": "car",
+      "models": 15,
+      "logo": "82eee908d8d96bdc489c515e5d0b6cf1.png"
+    },
+    {
+      "id": 64,
+      "name": "Westfield",
+      "uri": "westfield",
+      "type": "car",
+      "models": 1,
+      "logo": "1426bab0f48cd021734e0d85492b6148.png"
+    },
+    {
+      "id": 22,
+      "name": "Wiesmann",
+      "uri": "wiesmann",
+      "type": "car",
+      "models": 1,
+      "logo": "f8176acbecdeef8ffc4cbbba62d738f7.png"
+    },
+    {
+      "id": 149,
+      "name": "Yale",
+      "uri": "yale-agri",
+      "type": "agri",
+      "models": 1,
+      "logo": "4344b0b2dc22f1d0128102e66629dcf3.png"
+    }
+  ]
+}

@@ -1,2 +1,2 @@
 # tl-solutions
-Divi Child for TL Solutions
+divi child for tl solution 
