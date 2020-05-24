@@ -95,7 +95,7 @@ add_action( 'wp_enqueue_scripts', 'wpdocs_dequeue_dashicon' );
 // chiptunning
 function wp_php_api($url) {
 
-	
+
 
 	$host = 'https://api.olsx.lu/car-configurator/v1/' . $url;
 	$ch = curl_init($host);

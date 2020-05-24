@@ -208,7 +208,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() );
 							if($motors['uri'] == $_GET['engine']) { 
 								if($motors['powerType'] == "petrol") { $powerType = 'Essence'; } else if($motors['powerType'] == "diesel") { $powerType = 'Diesel'; } ?>
 								<!-- back link -->
-								<div class="h2-397"><?= '<span class="small-1">' . $result['manufacturer']['name'] . '</span> ' . ' <span class="small-2">' . $_GET['engine'] . '</span> ' . ' <span style="font-size:25px;">' . $result['from'] . '</span> <span style="font-size:20px;">' . $powerType . '</span>' ?></div>
+								<div class="h2-397"><?= '<span class="small-1">' . $result['manufacturer']['name'] . '</span> ' . ' <span class="small-2">' . $_GET['engine'] . '</span> ' . ' <span class="small-3" style="font-size:25px;">' . $result['from'] . '</span> <span class="small-4" style="font-size:20px;">' . $powerType . '</span>' ?></div>
 						<?php } ?>
 					<?php } ?>
 				<?php } else { ?>
@@ -353,7 +353,6 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() );
 	<?php } ?>
 	
 	<?php if(is_page(397)) { ?>
-			
 			<ul class="ul-397">
 				<li class="li-397">
 					<a class="stage-a-397">Stage <strong>1</stong></a>
@@ -366,7 +365,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() );
 							<p>Voici les résultats obtenus après reprogrammation du calculateur moteur. Nous veillons à ne pas dépasser les tolérances fixées par le constructeur, tant au niveau du moteur que de la boîte de vitesse.</p>
 							<div class="price-397"><?= $motors['price'] ?>€ TTC</div>
 							<div class="contact-div-397">
-								<a class="contact-button-397" href=""><i class="fas fa-envelope"></i>Contact</a>
+								<a class="popmake-516 contact-button-397" href=""><i class="fas fa-envelope"></i>Contact</a>
 							</div>
 						</div>
 						<div class="text-397">
@@ -400,9 +399,8 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() );
 							</div>
 						</div>
 					</div>
-
-			<?php }} ?>
 					
+			<?php }} ?>
 			<?php } ?>	
 		</div>	
 
